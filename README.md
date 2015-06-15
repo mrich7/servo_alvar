@@ -6,7 +6,7 @@ Code to servo an alvar marker using the PR2 navigation stack, move_base package,
 
 Usage: 
 
-    rosrun servo_alvar servo_alvar.py \<number of Alvar marker found with ar_track_alvar\>
+    rosrun servo_alvar servo_alvar.py <number of Alvar marker found with ar_track_alvar>
 
 Can be edited to servo to any AR tag that has a TF frame (assumes z-axis is pointing out of the face of the tag)
 
