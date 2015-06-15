@@ -4,7 +4,7 @@
 	<arg name="max_new_marker_error" default="0.08" />
 	<arg name="max_track_error" default="0.2" />
 	<arg name="cam_image_topic_raw" default="/head_mount_kinect/rgb/image"/>
-	<arg name="cam_image_topic_alvar" default="/ir_image_sharp_out" />
+	<arg name="cam_image_topic_alvar" default="/image_sharper_out" />
 	<arg name="cam_info_topic" default="/head_mount_kinect/rgb/camera_info" />	
 	<arg name="output_frame" default="/torso_lift_link" />
 	<arg name="alpha" default="1"/>
