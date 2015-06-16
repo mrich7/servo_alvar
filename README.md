@@ -2,7 +2,7 @@
 Contains the servo_alvar and image_sharper ROS packages
 
 servo_alvar:
-Code to servo an alvar marker using the PR2 navigation stack, move_base package, and ar_track_alvar
+Code to servo an Alvar marker using the PR2 navigation stack, move_base package, and ar_track_alvar
 
 Usage: 
 
