@@ -1,0 +1,4 @@
+from servo_alvar import spoof
+
+if __name__=='__main__':
+    spoof.main()

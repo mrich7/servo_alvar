@@ -1,0 +1,4 @@
+from servo_alvar import servo_alvar
+
+if __name__=='__main__':
+    servo_alvar.main()
