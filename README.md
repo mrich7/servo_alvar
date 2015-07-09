@@ -1,5 +1,6 @@
 # servo_alvar
-Contains the servo_alvar and image_sharper ROS packages
+Contains the servo_alvar and image_sharper ROS packages 
+Uses ROS Fuerte
 
 servo_alvar:
 Code to servo an Alvar marker using the PR2 navigation stack, move_base package, and ar_track_alvar
